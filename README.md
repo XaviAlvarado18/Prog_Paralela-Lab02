@@ -9,10 +9,20 @@ This laboratory consists of a C++ program that generates N random numbers, store
 The program makes use of dynamic memory to handle variable-sized arrays, allowing you to work with large data sets and adjust the size of the array based on the number of numbers specified by the user. This is essential to evaluate the efficiency and scalability of the sorting algorithm.
 
 # Compile
+## Exercise 1
 ```bash
 g++ -o Exercise01 Exercise01.cpp
 ```
 
 ```bash
 ./Exercise01
+```
+
+## Exercise 1
+```bash
+g++ -fopenmp -o Exercise02 Exercise02.cpp
+```
+
+```bash
+./Exercise02
 ```
