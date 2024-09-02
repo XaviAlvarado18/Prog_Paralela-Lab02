@@ -18,7 +18,7 @@ g++ -o Exercise01 Exercise01.cpp
 ./Exercise01
 ```
 
-## Exercise 1
+## Exercise 2
 ```bash
 g++ -fopenmp -o Exercise02 Exercise02.cpp
 ```
